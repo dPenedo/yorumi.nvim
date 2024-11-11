@@ -19,8 +19,8 @@ local palette = {
 
 	-- kuroi
 	kuroiRed = "#4E0E0E",
-	-- kuroiGreen = "#1C4642",
-	kuroiGreen = "#5F3120",
+	kuroiGreen = "#1C4642",
+	-- kuroiGreen = "#5F3120",
 	kuroiBlue = "#0D2C4E",
 	kuroiYellow = "#6B5905",
 	kuroiViolet = "#0E0D17",
